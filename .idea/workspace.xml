@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/Seminar2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Angajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Aplicant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Elev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/clase/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/loaders/AngajatiLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/loaders/AplicantiLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/loaders/EleviLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/loaders/StudentiLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar2/src/ro/ase/cts/main/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angajati.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elevi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/elevinoi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studenti.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3AMQMdEVBOtICwFIXkdVPqw7Hqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Program.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/ro/ase/cts/main",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\Seminar2\src\ro\ase\cts\main" />
+      <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\Seminar2\src\ro\ase\cts\loaders" />
+      <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\Seminar2\src\ro\ase\cts\clase" />
+      <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="" />
+      <created>1772399917125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772399917125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Seminar2/src/ro/ase/cts/main/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
