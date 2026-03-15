@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Lucru/studiu individual Singleton">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/ManagerAutentificareLazy/ManagerAutentificareLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4PrototypeSTB/Seminar4PrototypeSTB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/Autobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/MijlocTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/MijlocTransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/TipMijlocTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/Tramvai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/Troleibuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/program/TestFactorySTB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4Singleton/src/ro/ase/cts/lazy/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4Singleton/src/ro/ase/cts/lazy/Main.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="seminar 4 Singleton, Simple Factory cu Singleton">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/Bilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/BiletAdult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/BiletStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/BiletVip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/factory/BiletFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/factory/TipBilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/main/SimpleFactoryCinematografMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/fbrokeraj/SinletonClauzeRCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/firmaBrokerajLazy/SinletonClauzeRCA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/fbrokeraj/TestSingletonClauzeRCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/firmaBrokerajLazy/TestSingletonClauzeRCA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/ro/ase/cts/main",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar4PrototypeSTB/src/Main.java"
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/SimpleFactory/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,7 +68,7 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFactorySTB">
+  <component name="RunManager" selected="Application.SimpleFactoryCinematografMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.lazy.Main" />
       <module name="Seminar4Singleton" />
@@ -89,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCinematografSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.singleton.cinematografLazyInitialization.TestCinematografSingleton" />
-      <module name="LucruIndividual" />
+    <configuration name="SimpleFactoryCinematografMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.main.SimpleFactoryCinematografMain" />
+      <module name="SimpleFactory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.singleton.cinematografLazyInitialization.*" />
+          <option name="PATTERN" value="ro.ase.cts.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleFactoryCinematografMain" />
         <item itemvalue="Application.TestFactorySTB" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA" />
         <item itemvalue="Application.TestSingletonClauzeRCA" />
-        <item itemvalue="Application.TestCinematografSingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773133543855</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="seminar 4 Singleton, Simple Factory cu Singleton">
+      <option name="closed" value="true" />
+      <created>1773571940756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773571940757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar 2" />
     <MESSAGE value="Seminar 3" />
     <MESSAGE value="Lucru/studiu individual Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lucru/studiu individual Singleton" />
+    <MESSAGE value="seminar 4 Singleton, Simple Factory cu Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="seminar 4 Singleton, Simple Factory cu Singleton" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
