@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="seminar 4 Singleton, Simple Factory cu Singleton">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/Bilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/BiletAdult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/BiletStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/clase/BiletVip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/factory/BiletFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/factory/TipBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/src/ro/ase/cts/main/SimpleFactoryCinematografMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="seminar 4 Singleton, Simple Factory cu Singleton" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +36,7 @@
     "Application.Main.executor": "Run",
     "Application.MainCinematografSingleton.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.SimpleFactoryCinematografMain.executor": "Run",
     "Application.TestCinematografSingleton.executor": "Run",
     "Application.TestFactorySTB.executor": "Run",
     "Application.TestSingletonClauzeRCA.executor": "Run",
@@ -177,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773571940757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="seminar 4 Singleton, Simple Factory cu Singleton">
+      <option name="closed" value="true" />
+      <created>1773612068979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773612068979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
