@@ -1,4 +1,4 @@
-package ro.ase.cts.fbrokeraj;
+package ro.ase.cts.firmaBrokerajLazy;
 
 public class TestSingletonClauzeRCA {
     public static void main(String[] args)throws Exception {

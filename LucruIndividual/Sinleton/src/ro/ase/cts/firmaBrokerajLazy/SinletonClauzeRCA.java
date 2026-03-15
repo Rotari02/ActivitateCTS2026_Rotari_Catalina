@@ -1,4 +1,4 @@
-package ro.ase.cts.fbrokeraj;
+package ro.ase.cts.firmaBrokerajLazy;
 
 public class SinletonClauzeRCA {
     //referinta la instanta unica - lazy initialization Singleton
