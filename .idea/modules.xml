@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurant.iml" filepath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/BuilderRestaurantVarianta1.iml" filepath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/BuilderRestaurantVarianta1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/BuilderRestaurantVarianta2.iml" filepath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/BuilderRestaurantVarianta2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" filepath="$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" filepath="$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" />
