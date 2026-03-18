@@ -10,5 +10,6 @@ public class Main1 {
         Rezervare rezervare2 = builder.setGenMuzica("Pop").build();
         System.out.println(rezervare1);
         System.out.println(rezervare2);
+
     }
 }
