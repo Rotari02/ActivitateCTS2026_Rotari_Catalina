@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="seminar 4 Singleton, Simple Factory cu Singleton" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Lucru individual Simple factory">
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/Seminar5Biulder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/src/ro/ase/cts/clase/Internare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/src/ro/ase/cts/clase/InternareBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/src/ro/ase/cts/clase/InternareBuilderAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/src/ro/ase/cts/clase/InternareBuilderAbstractAlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/src/ro/ase/cts/clase/InternareBuildertAlternativ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Biulder/src/ro/ase/cts/program/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5Prototype/Seminar5Prototype.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +26,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -42,12 +54,13 @@
     "Application.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
+    "Application.ro.ase.cts.program.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/ro/ase/cts/main",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/SimpleFactory/src/Main.java"
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar5Prototype/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,7 +71,7 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleFactoryCinematografMain">
+  <component name="RunManager" selected="Application.ro.ase.cts.program.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.lazy.Main" />
       <module name="Seminar4Singleton" />
@@ -98,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSingletonClauzeRCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.singleton.fbrokeraj.TestSingletonClauzeRCA" />
-      <module name="LucruIndividual" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.ase.cts.singleton.fbrokeraj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA" />
       <module name="Sinleton" />
@@ -124,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ro.ase.cts.program.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
+      <module name="Seminar5Biulder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ro.ase.cts.program.Main" />
         <item itemvalue="Application.SimpleFactoryCinematografMain" />
         <item itemvalue="Application.TestFactorySTB" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA" />
-        <item itemvalue="Application.TestSingletonClauzeRCA" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773612068979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="seminar 4 Singleton, Simple Factory cu Singleton">
+      <option name="closed" value="true" />
+      <created>1773612168430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773612168430</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lucru individual Simple factory">
+      <option name="closed" value="true" />
+      <created>1773612201791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773612201791</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,7 +212,8 @@
     <MESSAGE value="Seminar 3" />
     <MESSAGE value="Lucru/studiu individual Singleton" />
     <MESSAGE value="seminar 4 Singleton, Simple Factory cu Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="seminar 4 Singleton, Simple Factory cu Singleton" />
+    <MESSAGE value="Lucru individual Simple factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lucru individual Simple factory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
