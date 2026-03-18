@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Builder Seminar 5  Internare Spital varianta 1 si varianta 2">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/BuilderRestaurantVarianta1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/src/ro/ase/cts/clase/AbstractBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/src/ro/ase/cts/clase/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/src/ro/ase/cts/clase/RezervareBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/src/ro/ase/cts/program/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/BuilderRestaurantVarianta2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/src/ro/ase/cts/clase/AbstractBuilderV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/src/ro/ase/cts/clase/Rezervare2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/src/ro/ase/cts/clase/RezervareBuilderV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/src/ro/ase/cts/program/ProgramBuilderV2.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Builder Lucru Individual varianta 1 si varianta 2 Restaurant">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/PrototypeRestaurant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/src/ro/ase/cts/clase/ARezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/src/ro/ase/cts/clase/Rezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/src/ro/ase/cts/main/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,8 +42,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
     "Application.MainCinematografSingleton.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.ProgramBuilderV2.executor": "Run",
     "Application.SimpleFactoryCinematografMain.executor": "Run",
     "Application.TestCinematografSingleton.executor": "Run",
     "Application.TestFactorySTB.executor": "Run",
@@ -63,7 +58,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/ro/ase/cts/main",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/src/Main.java"
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/PrototypeRestaurant/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,13 +69,26 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main1">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main1" />
       <module name="BuilderRestaurantVarianta1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.main.Program" />
+      <module name="PrototypeRestaurant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ase.cts.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFactorySTB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestFactorySTB" />
-      <module name="Seminar4SimpleFactorySingletonSTB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ro.ase.cts.program.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
       <module name="Seminar5Biulder" />
@@ -142,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.ProgramBuilderV2" />
         <item itemvalue="Application.ro.ase.cts.program.Main" />
         <item itemvalue="Application.SimpleFactoryCinematografMain" />
-        <item itemvalue="Application.TestFactorySTB" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773859556875</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Builder Lucru Individual varianta 1 si varianta 2 Restaurant">
+      <option name="closed" value="true" />
+      <created>1773865578641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773865578641</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Builder Lucru Individual varianta 1 si varianta 2 Restaurant">
+      <option name="closed" value="true" />
+      <created>1773865705298</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773865705298</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,7 +236,8 @@
     <MESSAGE value="seminar 4 Singleton, Simple Factory cu Singleton" />
     <MESSAGE value="Lucru individual Simple factory" />
     <MESSAGE value="Builder Seminar 5  Internare Spital varianta 1 si varianta 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Builder Seminar 5  Internare Spital varianta 1 si varianta 2" />
+    <MESSAGE value="Builder Lucru Individual varianta 1 si varianta 2 Restaurant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builder Lucru Individual varianta 1 si varianta 2 Restaurant" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
