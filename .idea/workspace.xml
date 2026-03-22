@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Builder Lucru Individual varianta 1 si varianta 2 Restaurant">
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/clase/Desert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/clase/FelDeMancare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/clase/Papanasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/clase/Supa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/clase/SupaDeLegume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/clase/SupaDeVita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/enumuri/TipDesert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/enumuri/TipFelDeMancare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/enumuri/TipSupa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/fabrici/FabricaDesert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/fabrici/FabricaFelDeMancare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/fabrici/FabricaSupa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/src/ro/ase/cts/program/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6PrototypeRezervare/Seminar6PrototypeRezervare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6PrototypeRezervare/src/ro/ase/cts/clase/PrototypeRezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6PrototypeRezervare/src/ro/ase/cts/clase/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6PrototypeRezervare/src/ro/ase/cts/program/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar5Prototype/Seminar5Prototype.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/Seminar6MethodFactoryRestaurant.iml" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit">
+      <change beforePath="$PROJECT_DIR$/Seminar6PrototypeRezervare/src/ro/ase/cts/program/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar6PrototypeRezervare/src/ro/ase/cts/program/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +51,7 @@
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.program.Main.executor": "Run",
+    "Application.ro.ase.cts.program.Program (1).executor": "Run",
     "Application.ro.ase.cts.program.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -144,7 +125,7 @@
     </configuration>
     <configuration name="ro.ase.cts.program.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Program" />
-      <module name="Seminar6MethodFactoryRestaurant" />
+      <module name="Seminar6FactoryMethodRestaurant" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ro.ase.cts.program.*" />
@@ -246,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773865705298</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit">
+      <option name="closed" value="true" />
+      <created>1774219859543</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774219859543</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +257,8 @@
     <MESSAGE value="Lucru individual Simple factory" />
     <MESSAGE value="Builder Seminar 5  Internare Spital varianta 1 si varianta 2" />
     <MESSAGE value="Builder Lucru Individual varianta 1 si varianta 2 Restaurant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Builder Lucru Individual varianta 1 si varianta 2 Restaurant" />
+    <MESSAGE value="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
