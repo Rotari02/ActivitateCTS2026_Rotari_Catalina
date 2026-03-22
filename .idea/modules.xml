@@ -12,7 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" filepath="$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5Biulder/Seminar5Biulder.iml" filepath="$PROJECT_DIR$/Seminar5Biulder/Seminar5Biulder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar5Prototype/Seminar5Prototype.iml" filepath="$PROJECT_DIR$/Seminar5Prototype/Seminar5Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/Seminar6MethodFactoryRestaurant.iml" filepath="$PROJECT_DIR$/Seminar6MethodFactoryRestaurant/Seminar6MethodFactoryRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6PrototypeRezervare/Seminar6PrototypeRezervare.iml" filepath="$PROJECT_DIR$/Seminar6PrototypeRezervare/Seminar6PrototypeRezervare.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Sinleton/Sinleton.iml" filepath="$PROJECT_DIR$/LucruIndividual/Sinleton/Sinleton.iml" />
     </modules>
