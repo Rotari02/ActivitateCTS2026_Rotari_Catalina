@@ -1,4 +1,4 @@
-package ro.ase.cts.cinematografLazyInitialization;
+package ro.ase.cts.cinematografSingletonLazyInitialization;
 
 public class TestCinematografSingleton {
     public static void main(String[] args) {
