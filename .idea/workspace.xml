@@ -4,26 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieEagerInitialization/AgentieEagerInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieEagerInitialization/TestareEagerInitializationAgentie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieSingletonLazyInitialization/AgentieLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieSingletonLazyInitialization/TestareAgentieLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieSingletonThreadSafe/Agentie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieSingletonThreadSafe/TestareAgentieThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieStaticBlock/AgentieSingletonStaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AgentieStaticBlock/TestareAgentieSingletonStaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonEagerAndLazy/AutoritatePescuitEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonEagerAndLazy/AutoritatePescuitSingletonLazyI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonEagerAndLazy/TestareAutoritatePescuitEagerSiLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/AutoritatePescuitSingletonRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/Autorizatie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/TestareAutoritatePescuitSingletonRegistry.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Rezolvare probleme Singleton in fisierul-&gt; Lucru Individual">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/A2SpitalSimpleFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/Cerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/clase/Asistent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/clase/Brancardier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/clase/Medic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/clase/Personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/fabrica/FabricaPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/fabrica/TipPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/program/TestareFabricaPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/B3RestaurantSimpleFactorySupe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/Cerinta B3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/clase/ASupa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/clase/SupaDeCiuperci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/clase/SupaDeLegume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/clase/SupaDeVita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/fabrica/SupaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/fabrica/TipSupa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/src/ro/ase/cts/program/TestRestaurantSimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/C1FarmacieSimpleF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/CerintaProblemaC1FarmacieSimpleFactory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/clase/Medicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/clase/MedicamentBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/clase/MedicamentDurere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/clase/MedicamentRaceala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/fabrica/FabricaMedicamente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/fabrica/TipMedicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/src/ro/ase/cts/program/TestareC1FarmacieSimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/D1BancaSimpleFactoryCredite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/src/ro/ase/cts/clase/ACredit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/src/ro/ase/cts/clase/CreditIpotecar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/src/ro/ase/cts/clase/CreditNevoiPersonale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/src/ro/ase/cts/fabrici/FabricaCredite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/src/ro/ase/cts/fabrici/TipCredit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/src/ro/ase/cts/program/TestareD1CrediteSimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/E1SportivSingeFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/CerintaE1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/clase/AJucator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/clase/Atacant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/clase/Fundas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/clase/Mijlocas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/clase/Portar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/fabrici/FabricaJucatori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/fabrici/TipJucator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/ro/ase/cts/program/TestareE1SingleFactoryJucator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/SimpleFactoryAgentieBrokeraj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/clase/Analist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/clase/IAngajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/clase/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/clase/Vanzator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/fabrici/AngajatFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/fabrici/TipAngajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieBrokeraj/src/ro/ase/cts/program/TestSimpleFactoryAngajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/SimpleFactoryAgentieTurism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/clase/PachetCazare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/clase/PachetCazareTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/clase/PachetTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/clase/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/fabrici/AgentieFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/fabrici/AgentieSingletonSimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/fabrici/TipPachet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/program/TestareAgentieSimpleFactrory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryAgentieTurism/src/ro/ase/cts/program/TestareAgentieSingletonSimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/SimpleFactoryProbleme.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/cinematografLazyInitialization/Cinematograf.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/cinematografSingletonLazyInitialization/Cinematograf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/cinematografLazyInitialization/TestCinematografSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/cinematografSingletonLazyInitialization/TestCinematografSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/firmaBrokerajLazy/SinletonClauzeRCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/firmaBrokerajSingletonLazyInitialization/SinletonClauzeRCA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/firmaBrokerajLazy/TestSingletonClauzeRCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/firmaBrokerajSingletonLazyInitialization/TestSingletonClauzeRCA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +79,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -65,12 +111,21 @@
     "Application.SimpleFactoryCinematografMain.executor": "Run",
     "Application.TestCinematografSingleton.executor": "Run",
     "Application.TestFactorySTB.executor": "Run",
+    "Application.TestRestaurantSimpleFactory.executor": "Run",
+    "Application.TestSimpleFactoryAngajat.executor": "Run",
     "Application.TestSingletonClauzeRCA.executor": "Run",
     "Application.TestareAgentieLazy.executor": "Run",
+    "Application.TestareAgentieSimpleFactrory.executor": "Run",
+    "Application.TestareAgentieSingletonSimpleFactory.executor": "Run",
     "Application.TestareAgentieSingletonStaticBlock.executor": "Run",
     "Application.TestareAgentieThreadSafe.executor": "Run",
+    "Application.TestareAutoritatePescuitEagerSiLazy.executor": "Run",
     "Application.TestareAutoritatePescuitSingletonRegistry.executor": "Run",
+    "Application.TestareC1FarmacieSimpleFactory.executor": "Run",
+    "Application.TestareD1CrediteSimpleFactory.executor": "Run",
+    "Application.TestareE1SingleFactoryJucator.executor": "Run",
     "Application.TestareEagerInitializationAgentie.executor": "Run",
+    "Application.TestareFabricaPersonal.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.program.Main.executor": "Run",
@@ -81,7 +136,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/ro/ase/cts/main",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar6PrototypeRezervare/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -96,13 +151,13 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestareAutoritatePescuitEagerSiLazy">
-    <configuration name="TestareAgentieLazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.AgentieSingletonLazyInitialization.TestareAgentieLazy" />
-      <module name="Sinleton" />
+  <component name="RunManager" selected="Application.TestareE1SingleFactoryJucator">
+    <configuration name="TestRestaurantSimpleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestRestaurantSimpleFactory" />
+      <module name="B3RestaurantSimpleFactorySupe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.AgentieSingletonLazyInitialization.*" />
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareAgentieSingletonStaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.AgentieStaticBlock.TestareAgentieSingletonStaticBlock" />
-      <module name="Sinleton" />
+    <configuration name="TestSimpleFactoryAngajat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestSimpleFactoryAngajat" />
+      <module name="SimpleFactoryAgentieBrokeraj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.AgentieStaticBlock.*" />
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareAutoritatePescuitEagerSiLazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.AutoritatePescuitSingletonEagerAndLazy.TestareAutoritatePescuitEagerSiLazy" />
-      <module name="Sinleton" />
+    <configuration name="TestareC1FarmacieSimpleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareC1FarmacieSimpleFactory" />
+      <module name="C1FarmacieSimpleF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.AutoritatePescuitSingletonEagerAndLazy.*" />
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareAutoritatePescuitSingletonRegistry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.AutoritatePescuitSingletonRegistry.TestareAutoritatePescuitSingletonRegistry" />
-      <module name="Sinleton" />
+    <configuration name="TestareD1CrediteSimpleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareD1CrediteSimpleFactory" />
+      <module name="D1BancaSimpleFactoryCredite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.AutoritatePescuitSingletonRegistry.*" />
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareEagerInitializationAgentie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.AgentieEagerInitialization.TestareEagerInitializationAgentie" />
-      <module name="Sinleton" />
+    <configuration name="TestareE1SingleFactoryJucator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareE1SingleFactoryJucator" />
+      <module name="E1SportivSingeFactory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.AgentieEagerInitialization.*" />
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestareAutoritatePescuitEagerSiLazy" />
-        <item itemvalue="Application.TestareAutoritatePescuitSingletonRegistry" />
-        <item itemvalue="Application.TestareAgentieSingletonStaticBlock" />
-        <item itemvalue="Application.TestareEagerInitializationAgentie" />
-        <item itemvalue="Application.TestareAgentieLazy" />
+        <item itemvalue="Application.TestareE1SingleFactoryJucator" />
+        <item itemvalue="Application.TestareD1CrediteSimpleFactory" />
+        <item itemvalue="Application.TestRestaurantSimpleFactory" />
+        <item itemvalue="Application.TestSimpleFactoryAngajat" />
+        <item itemvalue="Application.TestareC1FarmacieSimpleFactory" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774219955040</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Rezolvare probleme Singleton in fisierul-&gt; Lucru Individual">
+      <option name="closed" value="true" />
+      <created>1774380611939</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1774380611939</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,7 +355,8 @@
     <MESSAGE value="Builder Seminar 5  Internare Spital varianta 1 si varianta 2" />
     <MESSAGE value="Builder Lucru Individual varianta 1 si varianta 2 Restaurant" />
     <MESSAGE value="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit" />
+    <MESSAGE value="Rezolvare probleme Singleton in fisierul-&gt; Lucru Individual" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rezolvare probleme Singleton in fisierul-&gt; Lucru Individual" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -316,6 +380,16 @@
           <url>file://$PROJECT_DIR$/Seminar6PrototypeRezervare/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/src/ro/ase/cts/clase/Personal.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
