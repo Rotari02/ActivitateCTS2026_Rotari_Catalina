@@ -4,68 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Rezolvare probleme Simple Factory la lucru individual">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/A3SpitalFactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/clase/APersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/clase/Asistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/clase/Brancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/clase/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/clase/Registrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/clase/Secretar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/fabrici/FactoryPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/fabrici/FactoryPersonalMedical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/fabrici/FactoryPersonalNonMedical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/fabrici/TipPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/fabrici/TipPersonalMedical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/fabrici/TipPersonalNonMedical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/src/program/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieBrokerajFactoryMethod/AgentieBrokerajFactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/Cerinta AgentieFM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/clase/CazareHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/clase/CazareaCabana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/clase/IPachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/clase/TransportAutobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/clase/TransportMicrobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/fabrici/CazareFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/fabrici/PachetTuristicFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/fabrici/TipPachetCazare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/fabrici/TipPachetTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/fabrici/TipPachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/fabrici/TransportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/src/ro/ase/cts/program/TestareAgentieFM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/C2FarmacieFM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/clase/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/clase/MedicamentBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/clase/MedicamentDurere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/clase/MedicamentRaceala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/farmacii/FabricaMedicamentBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/farmacii/FabricaMedicamentDurere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/farmacii/FabricaMedicamentRaceala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/farmacii/FabricaMedicamente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/src/program/TestareC2FarmacieFM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/CinemaFactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/clase/FilmActiune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/clase/FilmComedie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/clase/FilmDrama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/clase/IFilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/fabrici/CreatorFilmActiune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/fabrici/CreatorFilmComedie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/fabrici/CreatorFilmDrama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/fabrici/ICreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/src/ro/ase/cts/program/TestareFactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/AbonatiTelefoniciSimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/cerintaAbonTele" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/clase/ISubscription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/clase/MobilityX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/clase/MobilityY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/clase/MobilityZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/fabrici/FabricaAbonamente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/fabrici/TipAbonament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/src/ro/ase/cts/program/TestareFabricaAbonamente.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Rezolvare probleme Method Factory la lucru individual">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/D2BancaMethodFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/Cerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/clase/AClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/clase/PersoanaFizica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/clase/PersoanaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/fabrici/FabricaClienti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/fabrici/FabricaPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/fabrici/FabricaPJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/src/program/Testare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/E2JucatorFactoryMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/Cerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/clase/AJucator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/clase/Atacant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/clase/Fundas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/clase/Portar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/fabrici/FabricaAtacanti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/fabrici/FabricaFundasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/fabrici/FabricaJucatori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/fabrici/FabricaPortari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/program/TestareE2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -124,6 +83,7 @@
     "Application.TestareC2FarmacieFM.executor": "Run",
     "Application.TestareD1CrediteSimpleFactory.executor": "Run",
     "Application.TestareE1SingleFactoryJucator.executor": "Run",
+    "Application.TestareE2.executor": "Run",
     "Application.TestareEagerInitializationAgentie.executor": "Run",
     "Application.TestareFabricaAbonamente.executor": "Run",
     "Application.TestareFabricaPersonal.executor": "Run",
@@ -138,7 +98,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar2/src/ro/ase/cts/main",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/FactoryMethod/C2FarmacieFM/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -153,7 +113,7 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestareC2FarmacieFM">
+  <component name="RunManager" selected="Application.TestareE2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="program.Main" />
       <module name="A3SpitalFactoryMethod" />
@@ -193,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareFabricaAbonamente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareFabricaAbonamente" />
-      <module name="AbonatiTelefoniciSimpleFactory" />
+    <configuration name="TestareE2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="program.TestareE2" />
+      <module name="E2JucatorFactoryMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="PATTERN" value="program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestareE2" />
         <item itemvalue="Application.TestareC2FarmacieFM" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestareFactoryMethod" />
         <item itemvalue="Application.TestareAgentieFM" />
-        <item itemvalue="Application.TestareFabricaAbonamente" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774556409291</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Rezolvare probleme Method Factory la lucru individual">
+      <option name="closed" value="true" />
+      <created>1774623230221</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774623230221</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +335,8 @@
     <MESSAGE value="Redenumire director, FactoryMethod, prototype seminar 6 rezervare&#10;Am avut o problema cu modulele si a trebuit sa resetez git-ul la ultimul lui commit" />
     <MESSAGE value="Rezolvare probleme Singleton in fisierul-&gt; Lucru Individual" />
     <MESSAGE value="Rezolvare probleme Simple Factory la lucru individual" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rezolvare probleme Simple Factory la lucru individual" />
+    <MESSAGE value="Rezolvare probleme Method Factory la lucru individual" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rezolvare probleme Method Factory la lucru individual" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
