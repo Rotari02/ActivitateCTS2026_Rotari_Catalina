@@ -1,0 +1,14 @@
+Să se implementeze modulul de vânzare de pachete turistice pentru
+agenția AgeTur, știindu-se faptul că această oferă pachete din familia
+pachetelor turistice pentru cazare și pentru transport.
+
+Factory Method – participanți
+ Interfața PachetTuristic – definește la nivel abstract obiectele ce pot fi
+create;
+ Clasele concrete CazareHotel, CazareCabana, TransportAutobuz,
+TransportMicrobuz – implementează interfața PachetTuristic;
+ Interfața FabricaPacheteTuristice – definește la nivel abstract
+generatoarele de obiecte
+ Clasele concrete FabricaCazare, FabricaTransport– implementează
+interfața Factory, iar metoda crearePachet(tipPachet) va returna instanțe
+ale claselor concrete din familia PachetTuristic.

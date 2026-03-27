@@ -1,0 +1,5 @@
+2.1.3 Metoda din fabrică
+
+Firma LightCinema realizează o aplicație pentru cinematograful pe care îl gestionează. În cadrul unei săli din cinematograf sunt difuzate mai multe categorii de filme: comedie, acțiune, dramă etc.
+
+Să se realizeze modulul care să permită crearea unui anumit tip de film la cerere din familia filmelor existente. Implementarea permite adăugarea de noi categorii de filme foarte uşor, fără a se modifica codul sursă existent deja.

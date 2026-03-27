@@ -3,15 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/A2SpitalSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/A2SpitalSimpleFactory/A2SpitalSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/A3SpitalFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/A3SpitalFactoryMethod/A3SpitalFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/AbonatiTelefoniciSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/AbonatiTelefoniciSimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieBrokerajFactoryMethod/AgentieBrokerajFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieBrokerajFactoryMethod/AgentieBrokerajFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieFactoryMethod/AgentieFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/B3RestaurantSimpleFactorySupe.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/B3RestaurantSimpleFactorySupe/B3RestaurantSimpleFactorySupe.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurant.iml" filepath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/BuilderRestaurantVarianta1.iml" filepath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta1/BuilderRestaurantVarianta1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/BuilderRestaurantVarianta2.iml" filepath="$PROJECT_DIR$/LucruIndividual/BuilderRestaurant/BuilderRestaurantVarianta2/BuilderRestaurantVarianta2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/C1FarmacieSimpleF.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleF/C1FarmacieSimpleF.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleFactory/C1FarmacieSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/C1FarmacieSimpleFactory/C1FarmacieSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/C2FarmacieFM.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/C2FarmacieFM/C2FarmacieFM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/CinemaFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/CinemaFactoryMethod/CinemaFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/D1BancaSimpleFactoryCredite.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/D1BancaSimpleFactoryCredite/D1BancaSimpleFactoryCredite.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/E1SportivSingeFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/E1SportivSingeFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" filepath="$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/PrototypeRestaurant.iml" filepath="$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/PrototypeRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" filepath="$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" />
