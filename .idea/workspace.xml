@@ -4,58 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Rezolvare probleme Method Factory la lucru individual">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4C4SpitalPrototype/A4C4SpitalPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4C4SpitalPrototype/src/AbstractReteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4C4SpitalPrototype/src/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4C4SpitalPrototype/src/Reteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4C4SpitalPrototype/src/Testare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/A4SpitalPrototypeVarianta2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/src/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/src/IReteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/src/Laborator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/src/Reteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/src/Testare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/AgentieBrokerajPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/src/AsigurareAuto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/src/AsigurareLocuinte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/src/ContractAsigurare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/src/PrototypeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/src/TestPrototip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/AgentieTurismPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/CerintaB4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/deep/IListaOferte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/deep/ListaOferte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/deep/TestareDeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/shallow/IListaOferte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/shallow/ListaOferte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieTurismPrototype/src/shallow/Testare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/B4RestaurantPrototype/B4RestaurantPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/B4RestaurantPrototype/src/CerintaB4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/B4RestaurantPrototype/src/IRezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/B4RestaurantPrototype/src/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/B4RestaurantPrototype/src/TestarePrototypeRezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/CinemaPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/src/IPersoanaSimulare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/src/PerosanaSimulare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/src/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/CinemaPrototype/src/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/D4BancaPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/src/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/src/Cont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/src/ICont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/src/Testare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/src/Valuta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/E4SportivPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/src/AbstractCont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/src/CerintaE4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/src/Cont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/src/Testare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Prototype/Prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oferte.txt" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Rezolvare probleme Prototype la lucru individual">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/AgentieTurismBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Cerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta1AgentieTurism/Varianta1AgentieTurism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta1AgentieTurism/src/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta1AgentieTurism/src/PachetTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta1AgentieTurism/src/PachetTransportBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta1AgentieTurism/src/TestareV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/Varianta2AgentieBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/src/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/src/PachetTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/src/PachetTransportBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/src/Testare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta3/Varianta3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta3/src/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta3/src/PachetCalatorie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta3/src/TestareV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/Builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/D3BancaBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/src/ContBancar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/src/ContBancarBuilderV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/src/ContBancarBuilderV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/src/IBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/src/Testare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar6PrototypeRezervare/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,7 +50,7 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -128,6 +102,8 @@
     "Application.TestareFabricaPersonal.executor": "Run",
     "Application.TestareFactoryMethod.executor": "Run",
     "Application.TestarePrototypeRezervare.executor": "Run",
+    "Application.TestareV1.executor": "Run",
+    "Application.TestareV3.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.program.Main.executor": "Run",
@@ -138,7 +114,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/Prototype/CinemaPrototype/src",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/Prototype/E4SportivPrototype/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/Builder/D3BancaBuilder/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -158,17 +134,10 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Testare (3)">
+  <component name="RunManager" selected="Application.Testare (1)">
     <configuration name="Testare (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Testare" />
-      <module name="A4C4SpitalPrototype" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testare (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testare" />
-      <module name="D4BancaPrototype" />
+      <module name="D3BancaBuilder" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,33 +149,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareDeep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deep.TestareDeep" />
-      <module name="AgentieTurismPrototype" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="deep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Testare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testare" />
+      <module name="Varianta2AgentieBuilder" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestarePrototypeRezervare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestarePrototypeRezervare" />
-      <module name="B4RestaurantPrototype" />
+    <configuration name="TestareV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestareV1" />
+      <module name="Varianta1AgentieTurism" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestareV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestareV3" />
+      <module name="Varianta3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Testare (3)" />
-        <item itemvalue="Application.Testare (2)" />
         <item itemvalue="Application.Testare (1)" />
-        <item itemvalue="Application.TestarePrototypeRezervare" />
-        <item itemvalue="Application.TestareDeep" />
+        <item itemvalue="Application.TestareV3" />
+        <item itemvalue="Application.Testare" />
+        <item itemvalue="Application.TestareV1" />
+        <item itemvalue="Application.Testare (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774628092631</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Rezolvare probleme Prototype la lucru individual">
+      <option name="closed" value="true" />
+      <created>1774731098964</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1774731098964</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,7 +343,8 @@
     <MESSAGE value="Rezolvare probleme Singleton in fisierul-&gt; Lucru Individual" />
     <MESSAGE value="Rezolvare probleme Simple Factory la lucru individual" />
     <MESSAGE value="Rezolvare probleme Method Factory la lucru individual" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rezolvare probleme Method Factory la lucru individual" />
+    <MESSAGE value="Rezolvare probleme Prototype la lucru individual" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rezolvare probleme Prototype la lucru individual" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
