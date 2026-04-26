@@ -63,6 +63,7 @@ public class PachetTransport {
         this.areTV = areTV;
     }
 
+
     @Override
     public String toString() {
       return "Pachet Tursitic [areWifi="+areWifi+", areAnimale="+areAnimale+", esteFumator="+esteFumator+", areAC="+areAC+", areTV="+areTV+"]";

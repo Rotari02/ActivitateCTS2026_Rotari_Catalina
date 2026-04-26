@@ -36,4 +36,15 @@ public class AutoritatePescuitSingletonRegistry {
         }
         return registry.get(numePersoana);
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("AutoritatePescuitSingletonRegistry{");
+        sb.append("denumire='").append(denumire).append('\'');
+        sb.append(", website='").append(website).append('\'');
+        sb.append(", nrAngajati=").append(nrAngajati);
+        sb.append(", registry=").append(registry);
+        sb.append('}');
+        return sb.toString();
+    }
 }

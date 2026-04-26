@@ -3,7 +3,7 @@ package ro.ase.cts.clase;
 public class MijlocTransportFactory {
     private static  MijlocTransportFactory instance;
 
-    public  static  MijlocTransportFactory getInstance() {
+    public  static   MijlocTransportFactory getInstance() {
         if(instance ==null)
             instance = new MijlocTransportFactory();
         return instance;

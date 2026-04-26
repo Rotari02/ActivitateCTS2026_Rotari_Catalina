@@ -8,5 +8,7 @@ public class TestareAutoritatePescuitSingletonRegistry {
 
         Autorizatie autorizatieCata2 =autoritatePescuit1.emiteAutorizatie("Catalina Ro");
         System.out.println(autorizatieCatalinaRotari);
+
+        System.out.println(autoritatePescuit1.toString());
     }
 }

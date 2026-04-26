@@ -1,0 +1,22 @@
+Se dezvoltă o aplicație software destinată unui service auto.
+4p. În cadrul aplicației de gestiune a activității unui service auto de tunare mașini, se dorește
+implementarea unui modul pentru facilitarea procesului de colantare mașini. Crearea unui obiect de
+tip Sticker este un proces consumator întrucât sunt necesare informații suplimentare deținute de
+producătorii mașinilor iar dimensiunile exacte diferă de la un model la altul. Unicitatea dimensiunilor
+este reprezentată de modelul mașinii alături de anul de fabricație. Constatându-se faptul că service
+ul gestionează de multe ori modele de mașini identice, să se orienteze implementarea modulului în
+scopul optimizării timpului alocat creării specificațiilor necesare unui Sticker. Crearea unui Sticker
+primește ca parametru un obiect de tipul unei clase care implementează interfața IMasina.
+Consultând producătorii de mașini, este construit obiectul de tip Sticker cu dimensiunile impuse.
+1p.  Să se testeze soluția prin crearea a cel puțin patru obiecte de tipul Sticker prin intermediul modulului
+implementat.
+
+
+3p. În cadrul aplicației service-ului, angajații trebuie să creeze obiecte pentru componentele auto
+colantate: Usa, Capota, Bara, Portbagaj etc. Pentru fiecare tip de componentă este folosită o clasă
+aferentă componentei respective care implementează interfața IComponentă. Să se implementeze
+modulul care îi va ajuta pe inginerii service-ului în procesul de creare a obiectelor din familia
+componetelor auto.
+1p.  Să se testeze soluția prin crearea a cel puțin patru obiecte din cel puțin două tipuri diferite din familia
+componentelor auto.
+Timp de lucru: 50 minute
