@@ -7,24 +7,22 @@ public class Hotel {
     private int nrAngajati;
 
     public void afisareInchiriereCamera() {
-        if(nrCamereInchiriate ==nrCamere){
+        if (nrCamereInchiriate == nrCamere) {
             System.out.println("Num mai sunt camere disponibile");
-        }
-        else {
+        } else {
             System.out.println("Camera a fost inchiriata");
             nrCamereInchiriate++;
         }
     }
 
-    private Hotel(String denumireHotel, int nrCamere,  int nrAngajati) {
+    private Hotel(String denumireHotel, int nrCamere, int nrAngajati) {
         this.denumireHotel = denumireHotel;
         this.nrCamere = nrCamere;
         this.nrCamereInchiriate = 0;
         this.nrAngajati = nrAngajati;
     }
 
-    public void afiseazaDescriere()
-    {
+    public void afiseazaDescriere() {
         StringBuilder sb = new StringBuilder();
         sb.append(denumireHotel);
         sb.append(nrCamere);
@@ -33,17 +31,14 @@ public class Hotel {
         System.out.println(sb.toString());
     }
 
-    private static Hotel  instanta = null;
+    private static Hotel instanta = null;
 
-    public static synchronized Hotel getInstanta( String denumireHotel, int nrCamere, int nrAngajati) {
-        if(instanta ==null) {
-            instanta = new Hotel(denumireHotel,nrCamere,nrAngajati);
+    public static synchronized Hotel getInstanta(String denumireHotel, int nrCamere, int nrAngajati) {
+        if (instanta == null) {
+            instanta = new Hotel(denumireHotel, nrCamere, nrAngajati);
         }
         return instanta;
     }
-
-
-
 
 
 }

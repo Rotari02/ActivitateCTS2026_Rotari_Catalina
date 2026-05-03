@@ -1,29 +1,27 @@
 package ro.ase.cts.clase;
 
-public class Rezervare implements PrototypeRezervare{
+public class Rezervare implements PrototypeRezervare {
     private String numeClient;
     private int nrPersoane;
     private String ora;
     private String nrTelefon;
 
     public Rezervare(String numeClient, int nrPersoane, String ora, String nrTelefon) {
-        if(numeClient.length()>=3) {
-            this.numeClient = numeClient; }
-        else {
+        if (numeClient.length() >= 3) {
+            this.numeClient = numeClient;
+        } else {
             this.numeClient = "Client";
         }
 
-        if(nrPersoane > 0){
+        if (nrPersoane > 0) {
             this.nrPersoane = nrPersoane;
-        }
-        else{
+        } else {
             this.nrPersoane = 1;
         }
         this.ora = ora;
-        if(nrTelefon.length()>=10) {
+        if (nrTelefon.length() >= 10) {
             this.nrTelefon = nrTelefon;
-        }
-        else{
+        } else {
             this.nrTelefon = "Telefon";
         }
     }

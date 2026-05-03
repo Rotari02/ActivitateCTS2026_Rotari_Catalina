@@ -1,11 +1,11 @@
 package ro.ase.cts.clase;
 
 public class Internare {
-  protected boolean  patRabatabil;
-  protected boolean micDejunInclus;
-  protected boolean  papuciDeCamera;
-  protected boolean  halatPentruInterior;
-  protected String numePacient;
+    protected boolean patRabatabil;
+    protected boolean micDejunInclus;
+    protected boolean papuciDeCamera;
+    protected boolean halatPentruInterior;
+    protected String numePacient;
 
     public Internare(boolean patRabatabil, boolean micDejunInclus, boolean papuciDeCamera, boolean halatPentruInterior, String numePacient) {
         this.patRabatabil = patRabatabil;

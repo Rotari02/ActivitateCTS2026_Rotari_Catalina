@@ -1,6 +1,6 @@
 package ro.ase.cts.clase;
 
-public class Autobuz extends  MijlocTransport {
+public class Autobuz extends MijlocTransport {
 
     public Autobuz(String marca, int linie) {
         super(marca, linie);
@@ -8,7 +8,7 @@ public class Autobuz extends  MijlocTransport {
 
     @Override
     public void afisareDescriere() {
-        System.out.println("Autobuzul "+super.toString());
-     //System.out.println(this);//apelare automata to string din parinte
+        System.out.println("Autobuzul " + super.toString());
+        //System.out.println(this);//apelare automata to string din parinte
     }
 }

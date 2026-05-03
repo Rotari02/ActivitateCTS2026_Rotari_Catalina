@@ -1,8 +1,6 @@
 package ro.ase.cts.clase;
 
-import java.util.UUID;
-
-public abstract class Desert implements  FelDeMancare {
+public abstract class Desert implements FelDeMancare {
     int calorii;
     int gramaj;
     double pret;

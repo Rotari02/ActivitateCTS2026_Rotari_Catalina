@@ -6,13 +6,13 @@ import ro.ase.cts.clase.SupaDeVita;
 import ro.ase.cts.enumuri.TipFelDeMancare;
 import ro.ase.cts.enumuri.TipSupa;
 
-public class FabricaSupa  implements  FabricaFelDeMancare{
+public class FabricaSupa implements FabricaFelDeMancare {
 
     @Override
     public FelDeMancare creareFelDeMancare(TipFelDeMancare tip, int gramaj, double pret) {
-        return switch (tip){
-            case TipSupa.SUPADELEGUME -> new SupaDeLegume(gramaj,pret);
-            case TipSupa.SUPADEVITA -> new SupaDeVita(gramaj,pret);
+        return switch (tip) {
+            case TipSupa.SUPADELEGUME -> new SupaDeLegume(gramaj, pret);
+            case TipSupa.SUPADEVITA -> new SupaDeVita(gramaj, pret);
             default -> null;
         };
 
@@ -20,6 +20,6 @@ public class FabricaSupa  implements  FabricaFelDeMancare{
 
     @Override
     public FelDeMancare creareFelDeMancare(TipFelDeMancare tip, int calorii, int gramaj, double pret) {
-        return creareFelDeMancare(tip,gramaj,pret);
+        return creareFelDeMancare(tip, gramaj, pret);
     }
 }
