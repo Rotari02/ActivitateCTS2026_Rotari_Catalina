@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/PrototypeLive/PrototypeLive.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/PrototypeLive/PrototypeLive.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/PrototypeRestaurant.iml" filepath="$PROJECT_DIR$/LucruIndividual/PrototypeRestaurant/PrototypeRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10Flyway/Seminar10Flyway.iml" filepath="$PROJECT_DIR$/Seminar10Flyway/Seminar10Flyway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" filepath="$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" filepath="$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" filepath="$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" />
@@ -56,6 +57,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6FactoryMethodRestaurant/Seminar6FactoryMethodRestaurant.iml" filepath="$PROJECT_DIR$/Seminar6FactoryMethodRestaurant/Seminar6FactoryMethodRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6ProblemaA6Facade/Seminar6ProblemaA6Facade.iml" filepath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/Seminar6ProblemaA6Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6PrototypeRezervare/Seminar6PrototypeRezervare.iml" filepath="$PROJECT_DIR$/Seminar6PrototypeRezervare/Seminar6PrototypeRezervare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8RecuperareComposite/Seminar8RecuperareComposite.iml" filepath="$PROJECT_DIR$/Seminar8RecuperareComposite/Seminar8RecuperareComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8RecuperareDecorator/Seminar8RecuperareDecorator.iml" filepath="$PROJECT_DIR$/Seminar8RecuperareDecorator/Seminar8RecuperareDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9ProblemaA5Adapter/Seminar9ProblemaA5Adapter.iml" filepath="$PROJECT_DIR$/Seminar9ProblemaA5Adapter/Seminar9ProblemaA5Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/ServiceAutoPrototyoeCuSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/ServiceAutoPrototyoeCuSimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactory/SimpleFactory.iml" />

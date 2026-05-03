@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Seminar 9 Facade si Adapter">
-      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/Seminar10Flyway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/ClientAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/RegistruClienti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/program/TestareFlyway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/ModalitatePlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/PlataCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/PlataCash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/program/TestareStrategy.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Clean code">
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/Autobuz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/AutobuzCursaSpeciala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/AutobuzNocturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/MijlocDeTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/Statie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/TipCursa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/program/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/Seminar8RecuperareComposite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/clase/Departament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/clase/Sectie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/clase/Structura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/Seminar8RecuperareDecorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/clase/NotaDePlata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/clase/NotaDePlataAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/decorator/NotaDePlataCraciun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/decorator/NotaDePlataDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/decorator/NotaDePlataZiuaMuncii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/program/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -109,6 +117,7 @@
     "Application.TestareV3.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
+    "Application.ro.ase.cts.program.Main (1).executor": "Run",
     "Application.ro.ase.cts.program.Main.executor": "Run",
     "Application.ro.ase.cts.program.Program (1).executor": "Run",
     "Application.ro.ase.cts.program.Program.executor": "Run",
@@ -117,7 +126,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar10Strategy/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar8RecuperareDecorator/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.13085938",
     "project.structure.side.proportion": "0.2",
@@ -138,33 +147,13 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestareStrategy">
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Seminar9ProblemaA5Adapter" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ro.ase.cts.program.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.ase.cts.main.Main" />
       <module name="Seminar6ProblemaA6Facade" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ro.ase.cts.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestareAutoritatePescuitSingletonRegistry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.AutoritatePescuitSingletonRegistry.TestareAutoritatePescuitSingletonRegistry" />
-      <module name="Sinleton" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.ase.cts.AutoritatePescuitSingletonRegistry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,13 +187,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ro.ase.cts.program.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
+      <module name="Seminar8RecuperareDecorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ro.ase.cts.program.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
+      <module name="Seminar10Proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ro.ase.cts.program.Main (1)" />
+        <item itemvalue="Application.ro.ase.cts.program.Main" />
         <item itemvalue="Application.TestareStrategy" />
         <item itemvalue="Application.TestareFlyway" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.TestareAutoritatePescuitSingletonRegistry" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +392,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777237231180</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Flyway si strategy, seminar 10">
+      <option name="closed" value="true" />
+      <created>1777833206272</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1777833206272</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Clean code">
+      <option name="closed" value="true" />
+      <created>1777833728882</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1777833728882</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +438,9 @@
     <MESSAGE value="Rezolvare probleme Builder la lucru individual" />
     <MESSAGE value="Rezolvare probleme Builder 2 la lucru individual" />
     <MESSAGE value="Seminar 9 Facade si Adapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar 9 Facade si Adapter" />
+    <MESSAGE value="Flyway si strategy, seminar 10" />
+    <MESSAGE value="Clean code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
