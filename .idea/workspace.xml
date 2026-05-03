@@ -4,107 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Rezolvare probleme Builder 2 la lucru individual">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BicicletaBuilderuSimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/BuilderBicicleta.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/src/ABuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/src/Bicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/src/BicicleteBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/src/IBicileta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/BuilderBicicleta/src/TipFrana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/SimpleFactoryBicicleta.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/Fabrici/FabricaBiciclete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/Fabrici/TipBicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/clase/Bicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/clase/BicicletaElectrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/clase/BicicletaMTB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/clase/IBicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/clase/TipFrana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/CuptorTHSsiSRegistry.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorRegistruSingleton/ComandaRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorRegistruSingleton/Cuptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorRegistruSingleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorRegistruSingleton/PreparatOptimizat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorRegistruSingleton/RegistruCuptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorTS/ComandaPreparat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorTS/CuptorRestaurantTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorTS/MainCuptorTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/CuptorTS/PreparatTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/CuptorTHSsiSRegistry/src/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MasinaSingletonSimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/MethodFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/Fabrici/FabricaVan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/Fabrici/FactoryMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/Fabrici/FactorySedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/Fabrici/FectorySuv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/Fabrici/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/clase/AMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/clase/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/clase/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MethodFactory/src/clase/VAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/FabricaMasini/FabricaMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/FabricaMasini/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/FabricaMasini/TipMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/clase/AMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/clase/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/clase/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/SimpleFactory/clase/VAN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/Singleton/AMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/Singleton/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/Singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/Singleton/Masina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/src/Singleton/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/PregatireTest1Creationale.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/ServiceAutoPrototyoeCuSimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/Prototype/ConcretStickerPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/Prototype/IMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/Prototype/ISticker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/Prototype/MainPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/SimpleFactory/clase/Capota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/SimpleFactory/clase/IComponenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/SimpleFactory/clase/Usa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/SimpleFactory/fabrica/FabricaComponente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/SimpleFactory/fabrica/TipComponenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/ServiceAutoPrototyoeCuSimpleFactory/src/SimpleFactory/program/MainTestareFabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/MethodFactoryLive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/Baschet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/FabricaFotbal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/FabricaHandbal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/FabricaMaschet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/FabricaSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/Fotbal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/Handbal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/Sport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/TipBaschet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/TipFotbal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/TipHandbal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/TipSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/PrototypeLive/PrototypeLive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/PrototypeLive/src/ILive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/PrototypeLive/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/PrototypeLive/src/TransmisiuneLivePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/TransmisiuneLiveFMCuPrototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/Seminar6ProblemaA6Facade.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/src/ro/ase/cts/clase/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/src/ro/ase/cts/clase/Pacient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/src/ro/ase/cts/clase/Salon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/src/ro/ase/cts/clase/Spital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6ProblemaA6Facade/src/ro/ase/cts/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9ProblemaA5Adapter/Seminar9ProblemaA5Adapter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9ProblemaA5Adapter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9ProblemaA5Adapter/src/farmacie/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9ProblemaA5Adapter/src/spital/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9ProblemaA5Adapter/src/spital/MedicamentAdapter.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Seminar 9 Facade si Adapter">
+      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/Seminar10Flyway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/ClientAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/RegistruClienti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/clase/Rezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Flyway/src/ro/ase/cts/program/TestareFlyway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/ModalitatePlata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/PlataCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/clase/PlataCash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10Strategy/src/ro/ase/cts/program/TestareStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/src/PachetTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieTurismBuilder/Varianta2AgentieBuilder/src/PachetTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/AutoritatePescuitSingletonRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/AutoritatePescuitSingletonRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/TestareAutoritatePescuitSingletonRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Sinleton/src/ro/ase/cts/AutoritatePescuitSingletonRegistry/TestareAutoritatePescuitSingletonRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/MijlocTransportFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/src/ro/ase/cts/clase/MijlocTransportFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar6FactoryMethodRestaurant/src/ro/ase/cts/clase/Desert.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar6FactoryMethodRestaurant/src/ro/ase/cts/clase/Desert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +102,9 @@
     "Application.TestareFabricaAbonamente.executor": "Run",
     "Application.TestareFabricaPersonal.executor": "Run",
     "Application.TestareFactoryMethod.executor": "Run",
+    "Application.TestareFlyway.executor": "Run",
     "Application.TestarePrototypeRezervare.executor": "Run",
+    "Application.TestareStrategy.executor": "Run",
     "Application.TestareV1.executor": "Run",
     "Application.TestareV3.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
@@ -201,7 +117,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar6ProblemaA6Facade/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar10Strategy/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.13085938",
     "project.structure.side.proportion": "0.2",
@@ -222,21 +138,7 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="PrototypeLive" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MethodFactoryLive" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestareStrategy">
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Seminar9ProblemaA5Adapter" />
@@ -270,13 +172,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestareFlyway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareFlyway" />
+      <module name="Seminar10Flyway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestareStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareStrategy" />
+      <module name="Seminar10Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestareStrategy" />
+        <item itemvalue="Application.TestareFlyway" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.TestareAutoritatePescuitSingletonRegistry" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +361,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774812042292</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Seminar 9 Facade si Adapter">
+      <option name="closed" value="true" />
+      <created>1777237149679</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1777237149679</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Seminar 9 Facade si Adapter">
+      <option name="closed" value="true" />
+      <created>1777237231180</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1777237231180</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +406,8 @@
     <MESSAGE value="Rezolvare probleme Prototype la lucru individual" />
     <MESSAGE value="Rezolvare probleme Builder la lucru individual" />
     <MESSAGE value="Rezolvare probleme Builder 2 la lucru individual" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rezolvare probleme Builder 2 la lucru individual" />
+    <MESSAGE value="Seminar 9 Facade si Adapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar 9 Facade si Adapter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
