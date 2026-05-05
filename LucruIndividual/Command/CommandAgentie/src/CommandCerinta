@@ -1,0 +1,5 @@
+Command - problemă
+ Managerul agenției dorește ca în cadrul aplicației operatorul să poată da
+comenzi de rezervare sau vânzare pentru pachetele de cazare sau pentru
+pachetele de transport.
+ Aceste comenzi vor fi realizate prin intermediul clasei Operator.

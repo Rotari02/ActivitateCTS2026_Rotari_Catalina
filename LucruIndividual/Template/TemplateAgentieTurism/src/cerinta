@@ -1,0 +1,9 @@
+Template Method - problemă
+ Vânzarea unui pachet turistic se realizează de fiecare data după un
+pattern bine stabilit:
+ Se caută cazare;
+ Se caută transport;
+ Se rezervă întreg pachetul;
+ Se vinde pachetul, prin realizarea plății.
+ Să se implementeze modulul care realizează vânzarea de pachete
+turistice.

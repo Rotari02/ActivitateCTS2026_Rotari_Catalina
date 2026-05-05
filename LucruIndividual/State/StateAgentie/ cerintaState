@@ -1,0 +1,4 @@
+State - problemă
+ Agenția de turism dorește implementare a unui modul pentru gestiunea
+rezervărilor realizate pentru pachetele din oferta sa. Rezervările pot fi întrun din următoarele stări: neplatita, platita, efectuata.
+ Sa se implementeze modulul dorit de către agenția de turism.

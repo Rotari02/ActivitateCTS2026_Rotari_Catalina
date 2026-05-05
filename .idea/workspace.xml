@@ -5,26 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Clean code">
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/Autobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/AutobuzCursaSpeciala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/AutobuzNocturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/MijlocDeTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/Statie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/clase/TipCursa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10Proxy/src/ro/ase/cts/program/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/Seminar8RecuperareComposite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/clase/Departament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/clase/Sectie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/clase/Structura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareComposite/src/ro/ase/cts/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/Seminar8RecuperareDecorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/clase/NotaDePlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/clase/NotaDePlataAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/decorator/NotaDePlataCraciun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/decorator/NotaDePlataDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/decorator/NotaDePlataZiuaMuncii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8RecuperareDecorator/src/ro/ase/cts/program/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/AgentieTurismChainOfResponsibility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/CerintAgentieChainOfResponsibility" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/clase/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/clase/Notificator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/clase/NotificatorEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/clase/NotificatorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/clase/NotificatorSMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/AgentieTurismChainOfResponsibility/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ChainOfResponsibility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/Command.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/CommandAgentie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/CommandCerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/ComandaRezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/ComandaVanzare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/PachetCazare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/PachetTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/clase/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Command/CommandAgentie/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Memento/AgentieTuristicaMemento/AgentieTuristicaMemento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Memento/AgentieTuristicaMemento/src/cerintaAgentieMemento" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Memento/Memento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/ObeserverAgentieTurism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/src/cerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/src/clase/Agentie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/src/clase/Subiect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/src/client/ClientFidel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/src/client/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObeserverAgentieTurism/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/Observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/ cerintaState" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/StateAgentie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/src/clase/Rezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/src/clase/Stare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/src/clase/StareEfectuata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/src/clase/StareNeplatita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/src/clase/StarePlatita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/State/StateAgentie/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/TemplateAgentieTurism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/src/cerinta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/src/clase/PachetCazare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/src/clase/PachetCazareTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/src/clase/PachetTransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/src/clase/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Template/TemplateAgentieTurism/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/Seminar11Command.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Asistent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Internare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Medic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/PersonalSpital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/clase/Tratare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11Command/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/Seminar11ObserverSpitalA12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/src/clase/ISpital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/src/clase/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/src/clase/PacientAbonat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/src/clase/Spital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/src/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -69,6 +113,7 @@
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
     "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main1.executor": "Run",
     "Application.MainCinematografSingleton.executor": "Run",
@@ -115,6 +160,7 @@
     "Application.TestareStrategy.executor": "Run",
     "Application.TestareV1.executor": "Run",
     "Application.TestareV3.executor": "Run",
+    "Application.main.Main.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.program.Main (1).executor": "Run",
@@ -126,7 +172,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar8RecuperareDecorator/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar11Command/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.13085938",
     "project.structure.side.proportion": "0.2",
@@ -147,13 +193,13 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ro.ase.cts.program.Main (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.main.Main" />
-      <module name="Seminar6ProblemaA6Facade" />
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="CommandAgentie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.main.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareFlyway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareFlyway" />
-      <module name="Seminar10Flyway" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="TemplateAgentieTurism" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestareStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.TestareStrategy" />
-      <module name="Seminar10Strategy" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="AgentieTurismChainOfResponsibility" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ro.ase.cts.program.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
-      <module name="Seminar8RecuperareDecorator" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Seminar11ObserverSpitalA12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ro.ase.cts.program.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
-      <module name="Seminar10Proxy" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Seminar11Command" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ro.ase.cts.program.Main (1)" />
-        <item itemvalue="Application.ro.ase.cts.program.Main" />
-        <item itemvalue="Application.TestareStrategy" />
-        <item itemvalue="Application.TestareFlyway" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -494,6 +540,36 @@
           <url>file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/TransmisiuneLiveFMCuPrototype/MethodFactoryLive/src/Main.java</url>
           <line>4</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Observer/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/State/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Command/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Template/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Memento/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/Main.java</url>

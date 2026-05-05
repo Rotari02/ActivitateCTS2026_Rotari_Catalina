@@ -1,0 +1,21 @@
+Chain of Responsibility - problemă
+ Transmiterea notificărilor către clienții fideli se realizează prin mesaje SMS
+sau prin e-mail.
+ Problema este că agenția deține pentru anumiți clienți numărul de
+telefon, iar pentru alți clienți doar adresa de mail. Să se implementeze
+funcționalitatea de a trimite notificări clienților prin SMS, iar în cazul în care
+pentru anumiți clienți agenția nu are în baza de date numărul de telefon,
+să se trimită notificarea prin email. În cazul clienților pentru care nu există
+nici numărul de telefon, nici adresa de mail, se trimite managerului
+agenției o notificare cu numele clientului pentru care nu există date de
+contact.
+
+
+
+Chain of Responsibility - nume
+ Acest design pattern este folosit atunci când cel care are nevoie de
+rezolvarea unei probleme nu știe exact cine poate să rezolve problema,
+însă are o listă de posibile obiecte ce pot rezolva problema.
+ Aceste obiecte posibile se ordonează într-un lanț, apoi cel care are
+problema de rezolvat apelează pentru prima za din lanț.
+

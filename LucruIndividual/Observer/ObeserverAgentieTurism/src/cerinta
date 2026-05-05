@@ -1,0 +1,4 @@
+Agenția de turism dorește să anunțe clienții fideli ori de câte ori apar noi
+oferte. Astfel se dorește implementarea unui modul care atunci când se
+realizează o ofertă de preț sau se introduce un nou pachet să se trimită
+notificări tuturor clienților abonați la notificările agenției de turism.
