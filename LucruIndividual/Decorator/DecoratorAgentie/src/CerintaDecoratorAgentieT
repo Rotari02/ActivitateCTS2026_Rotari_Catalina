@@ -1,0 +1,17 @@
+Decorator - problemă
+ Agenția de turism dorește să ofere pentru o perioadă de trei luni
+posibilitatea de anulare a pachetelor rezervate. Această ofertă expiră în
+trei luni. Managerul agenției nu dorește să modifice codul, deoarece
+după trei luni trebuie să modifice iar codul sursă.
+ Să se implementeze modulul care asigură oferta agenției fără a se
+modifica codul existent.
+
+Decorator – participanți
+ AbstractProduct – PachetTuristic – clasa abstractă sau interfața care
+definește familia de obiecte existente în codul sursă;
+ ConcreteProduct – PachetCazare – clasa concretă existentă în codul
+sursă;
+ AbstractDecorator – OfertaPachetTuristic - clasa abstractă care definește
+decoratorul;
+ ConcreteDecorator – OfertaPachetCazare – clasa concretă care
+decorează ConcreteProduc

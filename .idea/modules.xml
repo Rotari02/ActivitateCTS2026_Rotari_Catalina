@@ -44,6 +44,9 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/D2BancaMethodFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/D2BancaMethodFactory/D2BancaMethodFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/D3BancaBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/D3BancaBuilder/D3BancaBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/D4BancaPrototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/D4BancaPrototype/D4BancaPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/DecoratorAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/DecoratorAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/DecoratorBancaD6.iml" filepath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/DecoratorBancaD6.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/E1SportivSingeFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/E1SportivSingeFactory/E1SportivSingeFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/E2JucatorFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/E2JucatorFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/E3SportBuilder/E3SportBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/E3SportBuilder/E3SportBuilder.iml" />
