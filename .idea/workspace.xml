@@ -4,24 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Seminar 11- Observer si Command">
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/Seminar11ChainOfResponsabilitySTB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/src/ro/ase/cts/clase/CalatorieAutobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/src/ro/ase/cts/clase/CalatorieHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/src/ro/ase/cts/clase/CalatorieMetrou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/src/ro/ase/cts/clase/CalatorieTramvai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/src/ro/ase/cts/clase/CalatorieTroleibuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/src/ro/ase/cts/program/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11CommandSTB/Seminar11CommandSTB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11CommandSTB/src/ro/ase/cts/clase/Autobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11CommandSTB/src/ro/ase/cts/clase/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11CommandSTB/src/ro/ase/cts/clase/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11CommandSTB/src/ro/ase/cts/clase/Plecare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11CommandSTB/src/ro/ase/cts/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11Strategy/Seminar11Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11Strategy/src/ro/ase/cts/clase/ModSustinere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11Strategy/src/ro/ase/cts/clase/ProbaOrala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar11Strategy/src/ro/ase/cts/clase/ProbaScrisa.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Seminar 11/12 Strategy, Command, Chain Of Responsability">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/Adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterAgentieTurism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/AdapterDeClaseAgentie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/src/clase/PachetCazare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/src/clase/PachetMasinaInchiriata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/src/clase/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/src/inchiriereMasini/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/src/inchiriereMasini/MasinaInchiriata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/AdapterDeObiecteAgentie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/src/clase/PachetCazare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/src/clase/PachetMasinaInchiriataAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/src/clase/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/src/inchiriereMasini/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/src/inchiriereMasini/MasinaInchiriata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/AdapterBancaD5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/cerintaD5Banca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/clase/AdapterCredite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/clase/CreditareLeasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/clase/CreditareStandard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/clase/ICreditare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/main/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/Facade Agentei.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/src/cerintaFacade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/src/clase/CompanieAeriana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/src/clase/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/src/clase/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/src/clase/Zbor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/Facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/FacadeBancaD7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/src/CerintaBancaD7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/src/clase/CreanteVerificare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/src/clase/FacadeCreareCont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/src/clase/PersoanaVerificare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/src/clase/PolitieVerificare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/src/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -113,9 +134,11 @@
     "Application.TestareStrategy.executor": "Run",
     "Application.TestareV1.executor": "Run",
     "Application.TestareV3.executor": "Run",
+    "Application.main.Main (1).executor": "Run",
     "Application.main.Main.executor": "Run",
     "Application.ro.ase.cts.fbrokeraj.TestSingletonClauzeRCA.executor": "Run",
     "Application.ro.ase.cts.firmaBrokerajLazy.TestSingletonClauzeRCA.executor": "Run",
+    "Application.ro.ase.cts.main.Main (1).executor": "Run",
     "Application.ro.ase.cts.main.Main.executor": "Run",
     "Application.ro.ase.cts.program.Main (1).executor": "Run",
     "Application.ro.ase.cts.program.Main.executor": "Run",
@@ -126,7 +149,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Seminar11StrategySTB/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/Facade/FacadeBancaD7/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.13085938",
     "project.structure.side.proportion": "0.2",
@@ -147,23 +170,10 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ro.ase.cts.main.Main (1)">
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Seminar11ObserverSpitalA12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Seminar11Command" />
+      <module name="FacadeBancaD7" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -175,11 +185,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.program.Main" />
-      <module name="Seminar11ChainOfResponsabilitySTB" />
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Facade Agentei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.program.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ro.ase.cts.main.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.main.Main" />
-      <module name="Seminar11Strategy" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Program" />
+      <module name="AdapterBancaD5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.main.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +210,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ro.ase.cts.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.ase.cts.main.Main" />
-      <module name="Seminar11CommandSTB" />
+    <configuration name="main.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="AdapterDeObiecteAgentie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.ase.cts.main.*" />
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="AdapterDeClaseAgentie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ro.ase.cts.main.Main (1)" />
-        <item itemvalue="Application.ro.ase.cts.main.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.main.Main (1)" />
+        <item itemvalue="Application.main.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +439,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777992225778</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Seminar 11/12 Strategy, Command, Chain Of Responsability">
+      <option name="closed" value="true" />
+      <created>1778100517075</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1778100517075</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Seminar 11/12 Strategy, Command, Chain Of Responsability">
+      <option name="closed" value="true" />
+      <created>1778100537080</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1778100537080</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,7 +488,8 @@
     <MESSAGE value="Flyway si strategy, seminar 10" />
     <MESSAGE value="Clean code" />
     <MESSAGE value="Seminar 11- Observer si Command" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar 11- Observer si Command" />
+    <MESSAGE value="Seminar 11/12 Strategy, Command, Chain Of Responsability" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar 11/12 Strategy, Command, Chain Of Responsability" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -535,9 +575,19 @@
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Seminar11Strategy/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/Seminar12Strategy/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Facade/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/Main.java</url>

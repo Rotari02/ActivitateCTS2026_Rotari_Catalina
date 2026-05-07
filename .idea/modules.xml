@@ -8,6 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/A4SpitalPrototypeVarianta2.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/A4SpitalPrototypeVarianta2/A4SpitalPrototypeVarianta2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/AbonatiTelefoniciSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/SimpleFactoryProbleme/AbonatiTelefoniciSimpleFactory/AbonatiTelefoniciSimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026_Rotari_Catalina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterAgentieTurism.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterAgentieTurism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/AdapterBancaD5.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/AdapterBancaD5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/AdapterDeClaseAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeClaseAgentie/AdapterDeClaseAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/AdapterDeObiecteAgentie.iml" filepath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterAgentieTurism/AdapterDeObiecteAgentie/AdapterDeObiecteAgentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/AgentieBrokerajBuilder/AgentieBrokerajBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/AgentieBrokerajBuilder/AgentieBrokerajBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieBrokerajFactoryMethod/AgentieBrokerajFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/AgentieBrokerajFactoryMethod/AgentieBrokerajFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/AgentieBrokerajPrototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/AgentieBrokerajPrototype/AgentieBrokerajPrototype.iml" />
@@ -43,6 +48,9 @@
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/E2JucatorFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/E2JucatorFactoryMethod/E2JucatorFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Builder/E3SportBuilder/E3SportBuilder.iml" filepath="$PROJECT_DIR$/LucruIndividual/Builder/E3SportBuilder/E3SportBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/E4SportivPrototype.iml" filepath="$PROJECT_DIR$/LucruIndividual/Prototype/E4SportivPrototype/E4SportivPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/Facade.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/Facade Agentei.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/Facade Agentei/Facade Agentei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/FacadeBancaD7.iml" filepath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeBancaD7/FacadeBancaD7.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruIndividual/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" filepath="$PROJECT_DIR$/LucruIndividual/LucruIndividual.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MasinaSingletonSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/MasinaSingletonSimpleFactory/MasinaSingletonSimpleFactory.iml" />
@@ -58,11 +66,11 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar10Flyway/Seminar10Flyway.iml" filepath="$PROJECT_DIR$/Seminar10Flyway/Seminar10Flyway.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" filepath="$PROJECT_DIR$/Seminar10Proxy/Seminar10Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" filepath="$PROJECT_DIR$/Seminar10Strategy/Seminar10Strategy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/Seminar11ChainOfResponsabilitySTB.iml" filepath="$PROJECT_DIR$/Seminar11ChainOfResponsabilitySTB/Seminar11ChainOfResponsabilitySTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11Command/Seminar11Command.iml" filepath="$PROJECT_DIR$/Seminar11Command/Seminar11Command.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar11CommandSTB/Seminar11CommandSTB.iml" filepath="$PROJECT_DIR$/Seminar11CommandSTB/Seminar11CommandSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11ObserverSpitalA12/Seminar11ObserverSpitalA12.iml" filepath="$PROJECT_DIR$/Seminar11ObserverSpitalA12/Seminar11ObserverSpitalA12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar11Strategy/Seminar11Strategy.iml" filepath="$PROJECT_DIR$/Seminar11Strategy/Seminar11Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12ChainOfResponsabilitySTB/Seminar12ChainOfResponsabilitySTB.iml" filepath="$PROJECT_DIR$/Seminar12ChainOfResponsabilitySTB/Seminar12ChainOfResponsabilitySTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12CommandSTB/Seminar12CommandSTB.iml" filepath="$PROJECT_DIR$/Seminar12CommandSTB/Seminar12CommandSTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12Strategy/Seminar12Strategy.iml" filepath="$PROJECT_DIR$/Seminar12Strategy/Seminar12Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" filepath="$PROJECT_DIR$/Seminar2And3/Seminar2And3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" filepath="$PROJECT_DIR$/Seminar4SimpleFactorySingletonSTB/Seminar4SimpleFactorySingletonSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" filepath="$PROJECT_DIR$/Seminar4Singleton/Seminar4Singleton.iml" />
