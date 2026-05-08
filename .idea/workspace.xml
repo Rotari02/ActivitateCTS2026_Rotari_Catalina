@@ -4,22 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Lucru Individual Adapter+Facade +Clean Code">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/DecoratorAgentie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/src/CerintaDecoratorAgentieT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/src/clase/PachetCazare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/src/clase/PachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/src/decorator/OfertaPachetCazare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/src/decorator/OfertaPachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorAgentie/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/CerintaDecoratorBancaD6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/DecoratorBancaD6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/src/clase/CardContactless.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/src/clase/CardFizic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/src/clase/DecoratorCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/src/clase/ICardBancar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorBancaD6/src/main/Main.java" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Lucru Individual Decorator +Clean Code">
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/Composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeAgentie/CompositeAgentie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeAgentie/src/ceintaAgentieComposite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeAgentie/src/clase/Categorie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeAgentie/src/clase/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeAgentie/src/clase/Optiune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeAgentie/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/CompositeBancaD9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/CerintaCompositeBancaD9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/clase/Agentie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/clase/CompositeIerarhieBancara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/clase/Filiala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/clase/IUnitateBancara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/clase/Sucursala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -126,7 +126,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/Decorator/DecoratorBancaD6/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/Composite/CompositeBanca/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.13085938",
     "project.structure.side.proportion": "0.2",
@@ -147,7 +147,7 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="FacadeBancaD7" />
@@ -187,9 +187,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Facade Agentei" />
+      <module name="CompositeAgentie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -200,9 +200,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Program" />
-      <module name="AdapterBancaD5" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="CompositeBancaD9" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -215,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +440,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778174345705</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lucru Individual Decorator +Clean Code">
+      <option name="closed" value="true" />
+      <created>1778185273136</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1778185273136</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Lucru Individual Decorator +Clean Code">
+      <option name="closed" value="true" />
+      <created>1778185351514</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1778185351514</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,7 +491,8 @@
     <MESSAGE value="Seminar 11- Observer si Command" />
     <MESSAGE value="Seminar 11/12 Strategy, Command, Chain Of Responsability" />
     <MESSAGE value="Lucru Individual Adapter+Facade +Clean Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lucru Individual Adapter+Facade +Clean Code" />
+    <MESSAGE value="Lucru Individual Decorator +Clean Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lucru Individual Decorator +Clean Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -579,6 +596,11 @@
           <url>file://$PROJECT_DIR$/LucruIndividual/Decorator/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LucruIndividual/Composite/CompositeBancaD9/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/LucruIndividual/PregatireTest1Creationale/BicicletaBuilderuSimpleFactory/SimpleFactoryBicicleta/src/Main.java</url>

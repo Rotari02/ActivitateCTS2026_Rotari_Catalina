@@ -1,0 +1,23 @@
+Composite - problemă
+ Agenția dorește realizarea unei aplicații software în care meniul să fie
+organizat într-o structură arborescentă pe categorii. Fiecare categorie
+poate conține alte subcategorii cu opțiuni, pe care operatorul să le
+acceseze. Astfel rezultă o structură ierarhică cu toate opțiunile.
+ Să se implementeze modulul pentru generarea meniului aplicației
+software dorite de agenția de turism.
+
+ Componenta abstractă – OptiuneMeniu – clasă abstractă sau interfață care
+descrie toate componentele arborescenței;
+ Composite – clase.Categorie – reprezintă componenta care poate să conțină fii;
+ NodFrunza – ItemMeniu – reprezintă componentele care nu au fii.
+
+Composite - implementare
+ Clasele Composite conțin o listă cu elemente de tip ComponentAbstracta. În
+această listă se adauga si se șterg noduri noi.
+ Clasele NodFrunza implementeaza metodele de adaugare nod sau stergere
+nod, chiar dacă nu au nicio implementare pentru el
+
+
+ Este un design patterns structural folosit atunci când este necesară
+crearea unei structuri ierahice sau o structură arborescentă prin
+compunerea de obiecte.
