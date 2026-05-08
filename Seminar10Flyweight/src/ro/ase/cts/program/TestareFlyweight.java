@@ -5,7 +5,7 @@ import ro.ase.cts.clase.ClientAbstract;
 import ro.ase.cts.clase.RegistruClienti;
 import ro.ase.cts.clase.Rezervare;
 
-public class TestareFlyway {
+public class TestareFlyweight {
     public static void main(String[] args) {
         RegistruClienti registru = new RegistruClienti();
         ClientAbstract client1 = registru.getClient("Catalina", "094567435", "cata@mail.com");
