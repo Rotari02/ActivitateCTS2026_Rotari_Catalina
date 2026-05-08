@@ -1,0 +1,17 @@
+Proxy - problemă
+ Agenția ia hotărârea că pachetele de transport din ofertă pot fi rezervate
+doar de către pensionari – persoane cu vârsta peste 65 de ani.
+ Să se implementeze un nivel intermediar care să permită realizarea
+rezervării doar pentru persoanele cu vârsta peste 65 de ani
+
+ InterfațaEntitate – PachetTuristic – interfața obiectului real;
+ Entitate – PachetTransport – clasa obiectului real. Obiectele acestei clase
+vor fi controlate de către proxy.
+ Proxy – ProxyPachet – clasa care gestionează referința către obiectul rea
+
+Clasa ProxyPachet implementează interfața PachetTuristic, astfel încât să
+poată fi folosit ca un pachet turistic.
+ Și are un atribut de tipul PachetTransport, acesta fiind obiectul gestionat, la
+care da acces în mod controlat.
+ Metoda rezervaPachet() a instanței va fi apelată doar în cazul în care
+condițiile sunt îndeplinite.

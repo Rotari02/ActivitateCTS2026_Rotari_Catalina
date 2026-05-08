@@ -1,0 +1,34 @@
+lyweight - problemă
+ Agenția organizează excursii și cu grupuri. Toate pachetele celor din grup
+vor avea același hotel de cazare, aceeași destinație și toți vor avea sau
+nu mic dejun inclus. Identificarea realizându-se după codul pachetului.
+Opțional fiecare persoană, dacă dorește, poate să aibă cina inclusă în
+pachet și numărul de excursii în care să meargă în zilele libere.
+ Să se implementeze modulul care asigură gestiunea de pachete turistice
+pentru cienții agenției, ținându-se cont de faptul că memoria trebuie
+folosită în mod optim.
+Flyweight – participanți
+
+ Flyweight – IPachetTuristic – interfața care leagă partea extrinsecă de partea intrinsecă a
+obiectelor (partea permanentă și partea temporară);
+ ConcreteFlyweight – PachetTuristic – clasa care extinde interfața Flyweight și realizează
+implementarea pentru partea permanentă a obiectului;
+ UnsharedConcreteFlyweight – Optionale – clasa care definește starea temporară sau partea
+extrinsecă a obiectelor;
+ FlyweightFactory – FabricaDePachete – clasa care gestionează obiecte de tip
+ConcreteFlyweight într-o colecție.
+Flyweight - implementare
+ Clasa FabricaDePachete conține un HashMap pentru reținerea pachetelor asemănătoare.
+ Clasa PachetTuristic reține codul, hotelul, destinația și daca are sau nu mic dejun,
+deoarece aceste atribute au aceleași valori pentru mai mulți turiști.
+ Clasa Optionale retine doar numărul de excursii si daca are sau nu cina, deoarece aceste
+atribute diferă foarte mu
+
+Flyweight - nume
+ Este utilizat atunci când trebuie să construim foarte multe obiecte/instanțe
+ale unei clase, însă majoritatea obiectelor au o parte comună, sau
+permanentă.
+ Astfel prin utilizarea design pattern-ului Flyweight se reduce consumul de
+memorie, păstrându-se într-o singură instanță partea comună.
+ Partea care diferă de la un obiect la altul este salvată într-o altă clasă și
+este adăugat după construirea obiectelor.
