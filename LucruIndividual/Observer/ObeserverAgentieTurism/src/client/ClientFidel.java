@@ -1,6 +1,6 @@
 package client;
 
-public class ClientFidel implements Observer{
+public class ClientFidel implements Observer {
     private String numeClient;
 
     public ClientFidel(String numeCl) {
@@ -9,6 +9,6 @@ public class ClientFidel implements Observer{
 
     @Override
     public void receptionareMesaj(String mesaj) {
-        System.out.println(numeClient+" ai primit un nou mesaj: "+mesaj);
+        System.out.println(numeClient + " ai primit un nou mesaj: " + mesaj);
     }
 }

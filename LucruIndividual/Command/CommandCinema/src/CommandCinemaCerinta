@@ -1,0 +1,7 @@
+Pentru un film managerul poate să dea una dintre următoarele
+ două comenzi: play sau pause. Să se implementeze modulul
+  care dă cele două comenzi. Managerul trebuie sa aibă un player,
+   căruia să îi dea comanda ce urmează a fi invocată. Programul oferă
+   posibilitatea ca player-ul să dea și undo. Astfel pentru comanda play,
+    undo înseamnă stop, iar pentru comanda pause,
+undo înseamnă resume.

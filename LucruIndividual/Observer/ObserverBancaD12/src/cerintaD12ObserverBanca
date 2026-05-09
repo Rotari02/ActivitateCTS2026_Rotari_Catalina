@@ -1,0 +1,13 @@
+12. Banca dorește să anunțe toți clienții abonați la notificări. Să se implementeze funcționalitatea
+de a trimite notificări clienților abonați. Acest proces se realizează pentru toți clienții băncii abonați
+la notificări.
+
+ Observer definește o relație de “1 : n”, în care un subiect notifică mai mulți
+observeri.
+ Acest design pattern este folosit atunci când anumite elemente (obiecte)
+trebuie să fie anunțate de schimbarea stării altor obiecte.
+
+ În cadrul clasei concrete a subiectului observabil se gestionează o listă de
+obiecte care observă.
+ În metoda de trimitere notificare se parcurge lista de observatori și se
+trimite un mesaj fiecăruia prin apelul funcției specifice.

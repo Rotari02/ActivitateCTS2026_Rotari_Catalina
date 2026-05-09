@@ -11,5 +11,5 @@ public abstract class Notificator {
         this.urmatorulNotificator = urmatorulNotificator;
     }
 
-    public abstract  void notifica(Client client,String mesaj);
+    public abstract void notifica(Client client, String mesaj);
 }
