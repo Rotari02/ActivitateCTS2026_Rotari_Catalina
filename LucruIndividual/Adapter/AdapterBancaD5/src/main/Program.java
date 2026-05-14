@@ -11,5 +11,7 @@ public class Program {
         ICreditare adapter=new AdapterCredite(creditareLeasing);
         adapter.acordaCredit("Oana",16000);
         adapter.acordaCredit("Vlad",13000000);
+
+
     }
 }

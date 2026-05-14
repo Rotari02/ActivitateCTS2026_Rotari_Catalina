@@ -1,4 +1,4 @@
-lyweight - problemă
+Flyweight - problemă
  Agenția organizează excursii și cu grupuri. Toate pachetele celor din grup
 vor avea același hotel de cazare, aceeași destinație și toți vor avea sau
 nu mic dejun inclus. Identificarea realizându-se după codul pachetului.
