@@ -1,5 +1,6 @@
 package clase;
-public class Film implements Ifilm{
+public class
+Film implements Ifilm{
     private String denumire;
 
     public Film(String denumire) {

@@ -5,229 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Pregatire test2">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/AdapterDeObiecteFarmacieC5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/CerintaAdapterFarmacieC5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/clase/AdapterGestiuneFarmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/clase/Farmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/clase/GestiuneStocuriMedicamente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/clase/IVazare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/clase/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteFarmacieC5/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportivE5/AdapterDeObiecteSportivE5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportivE5/src/cerintaE5AdapterSportiv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportivE5/src/clase/AdapterBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportivE5/src/clase/EBiletRo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportivE5/src/clase/IBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterDeObiecteSportivE5/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ChainOfResponsabilityRestaurantB16/ChainOfResponsabilityRestaurantB16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ChainOfResponsabilityRestaurantB16/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/ModelCOF_STbF16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/src/clase/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/src/clase/RecomanadaTroleibuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/src/clase/RecomandaAutobuz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/src/clase/RecomandaMetrou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/src/clase/RecomandaTramvai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/ChainOfResponsibility/ModelCOF_STbF16/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeSportivE9/CompositeSportivE9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeSportivE9/src/CerintaCompositeSportivE9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeSportivE9/src/clase/CompositeStadion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeSportivE9/src/clase/IStructuraStadion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeSportivE9/src/clase/Loc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/CompositeSportivE9/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/FarmacieCompositeC8/FarmacieCompositeC8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/FarmacieCompositeC8/src/CerintaC8Farmacie" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/FarmacieCompositeC8/src/clase/CompositeSectiune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/FarmacieCompositeC8/src/clase/IComponentaGrupare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/FarmacieCompositeC8/src/clase/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Composite/FarmacieCompositeC8/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/DecoratorFarmacieC7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/src/cerintaC7DecoratorFarmacie" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/src/clase/BonCuFelicitare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/src/clase/BonDeCasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/src/clase/DecoratorBon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/src/clase/IBon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorFarmacieC7/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/DecoratorSTB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/src/cerintaDecoratorSTB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/src/clase/BiletSTB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/src/clase/BiletSarbatoare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/src/clase/DecoratorBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/src/clase/IBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSTB/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/DecoratorSportivE7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/src/DecoratorCerintaE7Sportiv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/src/clase/BiletSimplu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/src/clase/BiletSustinere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/src/clase/DecoratorBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/src/clase/IBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Decorator/DecoratorSportivE7/src/clase/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/FacadeCinematograf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/clase/Facadecinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/clase/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/clase/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/clase/Public.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/clase/Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeCinematograf/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/FacadeFarmacieC6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/src/cerintaFacadeFarmacieC6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/src/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/src/clase/FacadeFarmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/src/clase/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/src/clase/Reteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FacadeFarmacieC6/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/FatadeSportivE6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/src/CerintaSportivE6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/src/clase/FacadeAccesStadion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/src/clase/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/src/clase/SistemAnticedente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/src/clase/SistemPolitie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Facade/FatadeSportivE6/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/FlyweightBancaD10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/Cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/Banca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/ConcreteFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/DetaliiSpecificeCont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/Detinator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/IFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/clase/Moneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightBancaD10/src/program/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/FlyweightCinema.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/FabricaFilmeFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Ifilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/ObserverSportivE12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/clase/Meci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/clase/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/clase/SalaSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/clase/SubiectObservabil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/clase/TipMeci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Observer/ObserverSportivE12/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/ProxyRestaurantC9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/src/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/src/clase/AchizitieMedicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/src/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/src/clase/IAchizitie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/src/clase/ProxyReteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxyRestaurantC9/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/ProxySportiv.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/src/cerintaProxySportiv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/src/clase/IVanzareBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/src/clase/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/src/clase/ProxyVarsta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/src/clase/VindeBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Proxy/ProxySportiv/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/StrategySportivE11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/cerinteStrategySportE11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/clase/IVerificareSpectator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/clase/Spectator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/clase/VerificarePeluza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/clase/VerificareTribune.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/clase/VerificareVip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/Strategy/StrategySportivE11/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/ModelBiciceletaAdapterCommand.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/Command/CommandRezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/Command/CommandVanzare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/Command/ICommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/Command/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/Command/PachetCroaziera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/adapterDeObiecte/AdapterBicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/adapterDeObiecte/BicicleteElectrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/adapterDeObiecte/IPachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/adapterDeObiecte/PachetExcursie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/ModelTestPlatformaStreamingCompositeDecorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Composite/ClipVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Composite/CompositeStreaming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Composite/IClip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Composite/TipComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Decorator/ClipVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Decorator/DecoratorClip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Decorator/IClip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestPlatformaStreamingCompositeDecorator/src/Decorator/Reclama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/ModelTestProxyChainOfResponsabilityVirus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/chain/AntivirusHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/chain/HandleMaxim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/chain/IHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/chain/MainChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/chain/VirusMediu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/chain/VirusMic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/proxy/AntivirusHttpCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/proxy/IHttpCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/proxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestProxyChainOfResponsabilityVirus/src/proxy/ProxyAntivirus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/ModelTestStrategyHotel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/src/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/src/clase/IVerificareActe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/src/clase/VerificaAmericani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/src/clase/VerificareNonUE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/src/clase/VerificareUE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/ModelTestStrategyHotel/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/PregatireTestObserverChainOfResponsabilityRestaurantB16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/chain/NotificatorEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/chain/NotificatorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/chain/NotificatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/chain/NotificatorSms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/observer/ISubiect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/PregatireTestObserverChainOfResponsabilityRestaurantB16/src/observer/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/ChaiOfResponsability.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/Ambulanta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/Antrenor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/Asistenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/FisaAcidentare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/HandlerAccidentare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/clase/TipGravitateAccidentare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/ChaiOfResponsability/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/SalaFitnessStrategyChainOfResponsability.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/StrategySalaFitnes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/Challange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/Fandari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/Flotari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/Genoflexiuni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/IChallange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/IExercitiu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SalaFitnessStrategyChainOfResponsability/StrategySalaFitnes/src/clase/Salturi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/SubiectAutowashDecoratorStrategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/DecoratorProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/IAbstractWashOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/ProgramStandard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/SpalareApaDedurizata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/SpalarePeriiFine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/decorator/SpalareSasiu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/strategy/ClientSpalatorie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/strategy/IModPlatesteStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/strategy/PlataCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/strategy/PlatesteCash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectAutowashDecoratorStrategy/src/strategy/PlatesteTelefon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/SubiectCodSursaComposite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/src/cerinta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/src/clase/CompositeUnitateCod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/src/clase/ICode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/src/clase/NodFrunzaUnitateCod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/src/clase/TipNodFrunza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectCodSursaComposite/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiecteTest2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/SubiectBibliotecaCompositeDecorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/BibliotecaColectie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/CartNodFrunza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/IElementBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/CitireDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/TipAoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/TipChigago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/Testare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/src/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/src/clase/AgentieTurism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/src/clase/IPersoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/src/clase/PachetTuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/src/clase/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testare/src/clase/PersoanaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/main/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Adapter/AdapterBancaD5/src/main/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAgentie/src/CerintaFlyweigtAgentie" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightAgentie/src/CerintaFlyweigtAgentie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/FabricaFilmeFlyweight.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/FabricaFilmeFlyweight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Film.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,6 +38,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -323,6 +121,8 @@
     "Application.TestareV1.executor": "Run",
     "Application.TestareV3.executor": "Run",
     "Application.clase.Main.executor": "Run",
+    "Application.composite.Main.executor": "Run",
+    "Application.decorator.Main.executor": "Run",
     "Application.main.Main (1).executor": "Run",
     "Application.main.Main.executor": "Run",
     "Application.proxy.Main.executor": "Run",
@@ -334,16 +134,23 @@
     "Application.ro.ase.cts.program.Main.executor": "Run",
     "Application.ro.ase.cts.program.Program (1).executor": "Run",
     "Application.ro.ase.cts.program.Program.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina",
-    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/LucruIndividual/SubiecteTest2/ModelBiciceletaAdapterCommand/src/Main.java",
+    "onboarding.tips.debug.path": "C:/ActivitateCTS2026_Rotari_Catalina/ActivitateCTS2026_Rotari_Catalina/Testare/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.13085938",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "project.propGUI"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -355,25 +162,19 @@
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\Testare\src" />
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\LucruIndividual\Builder\CinemaBuilder\src" />
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\LucruIndividual\Prototype\A4SpitalPrototypeVarianta2\src" />
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="clase" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="PregatireTestObserverChainOfResponsabilityRestaurantB16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Unnamed">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="ModelBiciceletaAdapterCommand" />
@@ -439,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proxy.Main" />
-      <module name="ModelTestProxyChainOfResponsabilityVirus" />
+    <configuration name="composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.Main" />
+      <module name="SubiectBibliotecaCompositeDecorator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxy.*" />
+          <option name="PATTERN" value="composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,13 +253,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.Main" />
+      <module name="SubiectBibliotecaCompositeDecorator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Testare" />
+      <option name="PACKAGE_NAME" value="clase" />
+      <option name="MAIN_CLASS_NAME" value="clase.PersoanaTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.composite.Main" />
+      <item itemvalue="Application.decorator.Main" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.MainChain" />
+      <item itemvalue="JUnit.Unnamed" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.decorator.Main" />
+        <item itemvalue="Application.composite.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainChain" />
-        <item itemvalue="Application.proxy.Main" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -727,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778330794074</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Pregatire test2">
+      <option name="closed" value="true" />
+      <created>1778749087303</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1778749087303</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
