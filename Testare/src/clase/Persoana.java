@@ -1,6 +1,10 @@
 package clase;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.Period;
 import java.util.Calendar;
+import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class Persoana implements IPersoana {
@@ -51,8 +55,14 @@ public class Persoana implements IPersoana {
 		Calendar dataNasterii=Calendar.getInstance();
 		dataNasterii.set(an,luna,zi);
 		Calendar dataCurenta=Calendar.getInstance();
-		long varsta_zile=TimeUnit.MILLISECONDS.toDays(Math.abs(dataCurenta.getTimeInMillis()-dataNasterii.getTimeInMillis()));
-		return (int) (varsta_zile/365);				
+		if(dataNasterii.before(dataCurenta))
+		{
+			return (int) Period.between(LocalDate.of(an,luna,zi),LocalDate.now()).getYears();
+		}
+		throw  new IllegalArgumentException();
+
+		//long varsta_zile=TimeUnit.MILLISECONDS.toDays(Math.abs(dataCurenta.getTimeInMillis()-dataNasterii.getTimeInMillis()));
+
 	}
 	
 	public boolean checkCNP(){

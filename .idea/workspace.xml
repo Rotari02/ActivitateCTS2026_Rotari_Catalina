@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Pregatire test2">
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/SubiectBibliotecaCompositeDecorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/BibliotecaColectie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/CartNodFrunza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/IElementBiblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/CitireDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/TipAoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LucruIndividual/SubiecteTest2/SubiectBibliotecaCompositeDecorator/src/decorator/TipChigago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/Testare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/src/PachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/src/clase/AgentieTurism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/src/clase/IPersoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/src/clase/PachetTuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/src/clase/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testare/src/clase/PersoanaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f4a1d1c4-d491-4212-85b8-75dbae2b6bc4" name="Changes" comment="Testare inceput">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/FabricaFilmeFlyweight.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/FabricaFilmeFlyweight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/LucruIndividual/Flyweight/FlyweightCinema/src/clase/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testare/src/clase/Persoana.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testare/src/clase/Persoana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testare/src/clase/PersoanaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testare/src/test/PersoanaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +20,8 @@
         <option value="package-info" />
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -135,6 +118,8 @@
     "Application.ro.ase.cts.program.Program (1).executor": "Run",
     "Application.ro.ase.cts.program.Program.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PersoanaTest.executor": "Run",
+    "JUnit.Unnamed.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -154,6 +139,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="clase" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\LucruIndividual\Prototype\CinemaPrototype\src" />
       <recent name="C:\ActivitateCTS2026_Rotari_Catalina\ActivitateCTS2026_Rotari_Catalina\Seminar2\src\ro\ase\cts\main" />
@@ -174,7 +162,7 @@
       <recent name="clase" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Unnamed">
+  <component name="RunManager" selected="JUnit.PersoanaTest">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="ModelBiciceletaAdapterCommand" />
@@ -266,10 +254,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <configuration name="PersoanaTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Testare" />
-      <option name="PACKAGE_NAME" value="clase" />
-      <option name="MAIN_CLASS_NAME" value="clase.PersoanaTest" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PersoanaTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
@@ -282,7 +270,7 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.MainChain" />
-      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.PersoanaTest" />
     </list>
     <recent_temporary>
       <list>
@@ -567,7 +555,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778749087303</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Testare inceput">
+      <option name="closed" value="true" />
+      <created>1779363107912</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1779363107914</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -582,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Seminar 2" />
     <MESSAGE value="Seminar 3" />
     <MESSAGE value="Lucru/studiu individual Singleton" />
     <MESSAGE value="seminar 4 Singleton, Simple Factory cu Singleton" />
@@ -607,7 +602,8 @@
     <MESSAGE value="Lucru Individual Proxy, Flyweight +Clean Code , Corectare Denumire Seminar10 Flyweight" />
     <MESSAGE value="Lucru Individual Strategy &amp; Observer &amp; Command &amp; ChainOfResponsability +CleanCode" />
     <MESSAGE value="Pregatire test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pregatire test2" />
+    <MESSAGE value="Testare inceput" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testare inceput" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
